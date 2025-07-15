@@ -1,0 +1,310 @@
+{
+  "terpenes": [
+    {
+      "name": "Limonene",
+      "possibleFlavors": [
+        "Citrusy",
+        "Diesel",
+        "Tropical",
+        "Lemon",
+        "Orange",
+        "Lime",
+        "Pineapple",
+        "Sour",
+        "Gassy"
+      ],
+      "effects": "Uplifting, stress relief, mood-boosting, energizing, creativity, happy",
+      "funFact": "Same terpene that gives citrus fruits their scent. Often used in cleaning products.",
+      "notableStrains": "Super Lemon Haze, Durban Poison, Wedding Cake, Sour Diesel, Tangie, Agent Orange, NYC Diesel, Gorilla Glue, Key Lime Pie"
+    },
+    {
+      "name": "Myrcene",
+      "possibleFlavors": [
+        "Earthy",
+        "Musky",
+        "Clove",
+        "Grape",
+        "Fruity",
+        "Herbal"
+      ],
+      "effects": "Relaxing, sedative, anti-inflammatory, pain relief, couch-lock, sleepy",
+      "funFact": "Most common terpene in cannabis. Found in mangoes, which some say enhances a cannabis high.",
+      "notableStrains": "Granddaddy Purple, Blue Dream, OG Kush, Grape Ape, Mango Kush, Harlequin, Green Crack"
+    },
+    {
+      "name": "Alpha-Pinene",
+      "possibleFlavors": [
+        "Piney",
+        "Woody",
+        "Cedar",
+        "Apple",
+        "Crisp",
+        "Fresh"
+      ],
+      "effects": "Focus, alertness, mental clarity, creativity",
+      "funFact": "Increases airflow and may help with asthma. Also found in pine needles, rosemary, and dill.",
+      "notableStrains": "Jack Herer, Trainwreck, Pineapple Express, Apple Jack, Sour Apple, Apple Fritter, Island Sweet Skunk, Romulan"
+    },
+    {
+      "name": "Beta-Caryophyllene",
+      "possibleFlavors": [
+        "Spicy",
+        "Cheesy",
+        "Peppery",
+        "Coffee",
+        "Cinnamon",
+        "Nutty",
+        "Clove",
+        "Black Pepper"
+      ],
+      "effects": "Anti-inflammatory, pain relief, relaxation, energizing, motivation",
+      "funFact": "Only terpene known to interact directly with CB2 receptors. Found in black pepper and cloves. Can act as an antioxidant.",
+      "notableStrains": "Girl Scout Cookies, Bubba Kush, Chemdawg, UK Cheese, Exodus Cheese, Blue Cheese, Chocolope, Ethiopian Coffee, Headband"
+    },
+    {
+      "name": "Linalool",
+      "possibleFlavors": [
+        "Floral",
+        "Vanilla",
+        "Grape",
+        "Lavender",
+        "Pear",
+        "Creamy",
+        "Butter",
+        "Cucumber",
+        "Caramel",
+        "Cotton Candy",
+        "Maple",
+        "Coconut",
+        "Sweet"
+      ],
+      "effects": "Calming, anti-anxiety, mood enhancement, relaxation, stress relief, euphoria",
+      "funFact": "One of the main terpenes in lavender, used in aromatherapy for stress relief. Common in grapes, giving wine its aroma.",
+      "notableStrains": "LA Confidential, Zkittlez, Do-Si-Dos, Grape Ape, Lavender, Granddaddy Purple, Grape Kush, Wedding Cake, Ice Cream Cake, Gelato"
+    },
+    {
+      "name": "Geraniol",
+      "possibleFlavors": [
+        "Sweet",
+        "Floral",
+        "Rose",
+        "Honey",
+        "Fruity"
+      ],
+      "effects": "Euphoric, uplifting, sweet relaxation",
+      "funFact": "Bees produce geraniol to mark flowers. Commonly used in perfumes.",
+      "notableStrains": "Afghani, Headband, Sundae Driver, Honey Bananas, Rose Bud, Pink Kush, Red Dragon"
+    },
+    {
+      "name": "Humulene",
+      "possibleFlavors": [
+        "Herbal",
+        "Hoppy",
+        "Woody",
+        "Savory",
+        "Earthy",
+        "Spicy"
+      ],
+      "effects": "Appetite suppressant, anti-inflammatory, sedative, heavy couch-lock",
+      "funFact": "Commonly found in hops and basil, giving beer its characteristic taste.",
+      "notableStrains": "Girl Scout Cookies, Skywalker OG, Death Star, Northern Lights, Headband"
+    },
+    {
+      "name": "Terpinolene",
+      "possibleFlavors": [
+        "Piney",
+        "Floral",
+        "Herbal",
+        "Fresh",
+        "Sweet"
+      ],
+      "effects": "Uplifting, creative",
+      "funFact": "Found in sage and rosemary, known for its fresh aroma.",
+      "notableStrains": "Jack Herer, Dutch Treat, Ghost Train Haze"
+    },
+    {
+      "name": "Menthol",
+      "possibleFlavors": [
+        "Minty",
+        "Cool",
+        "Fresh",
+        "Crisp"
+      ],
+      "effects": "Cooling, soothing, refreshing",
+      "funFact": "Gives peppermint its cool effect.",
+      "notableStrains": "Thin Mint GSC, Peppermint Kush, Chernobyl"
+    },
+    {
+      "name": "Nerolidol",
+      "possibleFlavors": [
+        "Woody",
+        "Citrus",
+        "Floral",
+        "Apple"
+      ],
+      "effects": "Sedating, relaxing",
+      "funFact": "Found in orange peels and ginger, known for its subtle woody scent.",
+      "notableStrains": "Jack Herer, Island Sweet Skunk, Sweet Skunk"
+    },
+    {
+      "name": "Ocimene",
+      "possibleFlavors": [
+        "Sweet",
+        "Herbal",
+        "Woody",
+        "Floral"
+      ],
+      "effects": "Uplifting, energizing",
+      "funFact": "Commonly found in mint and parsley, provides a sweet herbaceous aroma.",
+      "notableStrains": "Dutch Treat, Green Crack, Golden Goat"
+    },
+    {
+      "name": "Fenchol",
+      "possibleFlavors": [
+        "Herbal",
+        "Earthy",
+        "Pine",
+        "Basil",
+        "Fennel"
+      ],
+      "effects": "Relaxing, anti-inflammatory, antimicrobial, potential cognitive benefits",
+      "funFact": "Found in basil, Fenchol contributes to the fresh and slightly piney aroma.",
+      "notableStrains": "OG Kush, Banana Kush, Amnesia Haze"
+    },
+    {
+      "name": "Eucalyptol",
+      "possibleFlavors": [
+        "Eucalyptus",
+        "Minty",
+        "Spicy",
+        "Fresh",
+        "Cooling"
+      ],
+      "effects": "Focus-enhancing, uplifting, anti-inflammatory, antibacterial",
+      "funFact": "Also known as cineole, it's widely used in cough drops and aromatherapy.",
+      "notableStrains": "Super Silver Haze, Headband, Girl Scout Cookies"
+    },
+    {
+      "name": "Valencene",
+      "possibleFlavors": [
+        "Citrus",
+        "Orange",
+        "Grapefruit",
+        "Tropical",
+        "Sweet"
+      ],
+      "effects": "Uplifting, energizing, antifungal, antioxidant, mood-enhancing",
+      "funFact": "Found in Valencia oranges. Used as a natural insect repellent.",
+      "notableStrains": "Agent Orange, Tangie, Sour Diesel, Clementine, Jillybean, Mimosa"
+    },
+    {
+      "name": "Guaiol",
+      "possibleFlavors": [
+        "Woody",
+        "Pine",
+        "Floral",
+        "Rose",
+        "Earthy"
+      ],
+      "effects": "Calming, anti-inflammatory, antimicrobial, potential pain relief",
+      "funFact": "Extracted from the guaiacum tree, commonly used in perfumes and medicine.",
+      "notableStrains": "Afghani, Golden Pineapple, Sour Diesel"
+    },
+    {
+      "name": "Isopulegol",
+      "possibleFlavors": [
+        "Minty",
+        "Eucalyptus",
+        "Citrusy",
+        "Herbal"
+      ],
+      "effects": "Relaxing, potential anti-anxiety, anti-inflammatory, neuroprotective",
+      "funFact": "Precursor to menthol, giving peppermint its characteristic aroma.",
+      "notableStrains": "Harle-Tsu, Cannatonic, Cherry Wine"
+    },
+    {
+      "name": "Delta-3-Carene",
+      "possibleFlavors": [
+        "Cedar",
+        "Pine",
+        "Sweet",
+        "Lemon"
+      ],
+      "effects": "Anti-inflammatory, promotes memory retention, may dry out mouth and eyes",
+      "funFact": "Often found in essential oils, particularly in cypress and pine.",
+      "notableStrains": "Jack Herer, Super Lemon Haze, Skunk #1"
+    },
+    {
+      "name": "Pulegone",
+      "possibleFlavors": [
+        "Peppermint",
+        "Spearmint",
+        "Earthy",
+        "Herbal"
+      ],
+      "effects": "Sedative, potential memory-boosting effects, stress relief",
+      "funFact": "Naturally occurs in pennyroyal and mint, commonly used in aromatherapy.",
+      "notableStrains": "Kush Mintz, White Widow, Grape Ape"
+    },
+    {
+      "name": "Cymene",
+      "possibleFlavors": [
+        "Cumin",
+        "Thyme",
+        "Citrusy",
+        "Spicy"
+      ],
+      "effects": "Anti-inflammatory, antioxidant, antibacterial, may enhance mood",
+      "funFact": "Derived from thyme and cumin, often found in essential oils.",
+      "notableStrains": "Maui Wowie, Tangie, Orange Bud"
+    },
+    {
+      "name": "Farnesene",
+      "possibleFlavors": [
+        "Apple Skins",
+        "Turmeric",
+        "Green",
+        "Woody"
+      ],
+      "effects": "Calming, muscle relaxant, may help with sedation and anti-inflammation",
+      "funFact": "Contributes to the scent of green apples, found in many plants and fruits.",
+      "notableStrains": "GMO Cookies, Zkittlez, Cherry Pie"
+    },
+    {
+      "name": "Phytol",
+      "possibleFlavors": [
+        "Green",
+        "Grassy",
+        "Herbal",
+        "Earthy"
+      ],
+      "effects": "Sedative, anti-inflammatory, antioxidant, potential anxiety relief",
+      "funFact": "A byproduct of chlorophyll breakdown, often found in green tea.",
+      "notableStrains": "Sour Diesel, Cheese, Blue Dream"
+    },
+    {
+      "name": "Camphor",
+      "possibleFlavors": [
+        "Camphor",
+        "Rosemary",
+        "Earthy",
+        "Spicy"
+      ],
+      "effects": "Cooling, anti-inflammatory, potential respiratory benefits, uplifting",
+      "funFact": "Derived from the camphor tree, commonly used in medicine and chest rubs.",
+      "notableStrains": "White Widow, Super Silver Haze, OG Kush"
+    },
+    {
+      "name": "Borneol",
+      "possibleFlavors": [
+        "Cinnamon",
+        "Mugwort",
+        "Woody",
+        "Spicy"
+      ],
+      "effects": "Relaxing, potential pain relief, anti-inflammatory, sedative",
+      "funFact": "Used in Chinese medicine, believed to aid in pain relief and relaxation.",
+      "notableStrains": "Golden Goat, Blueberry, Trainwreck"
+    }
+  ]
+} 
